@@ -1,0 +1,124 @@
+#body{
+	
+	width: 50%;
+	
+
+}
+
+.img_align {
+	vertical-align: middle;
+	text-align: right;
+	color: lightgray;
+}
+.div1 {
+	background-color: lightgray ;
+	padding: 0px;
+	
+}
+
+
+.txt_size {
+	font-size: 30px;
+
+
+}
+ul li {
+	list-style: none;
+	display: inline-block;
+	font-size: 25px;
+	padding: 5px;	
+
+}
+
+ul {
+	background-color: sandybrown;
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	padding-right: 5px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;	
+}
+
+p{
+	font-size: 25px;
+	color: white;
+	background-color: sandybrown;
+	padding: 3px;
+
+}
+
+
+.images{
+	float: left;
+}
+
+#empty{
+	background-color: sandybrown;
+	color: sandybrown;
+	font-size: 8px;
+	margin-bottom: 30px;
+
+}
+#footer{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+
+}
+.div2{
+	margin-top: 0px;
+}
+#paragraph{
+	background-color: white;
+	color: black;
+}
+
+.secondrow{
+	float: left;
+	font-size: 50px;
+	width: 100px;
+}
+
+.firstrow{
+	width: 100px;
+}
+.images{
+	background-color: white;
+	padding-bottom: 60px; 
+
+}
+.one{
+	width: 500px;
+	margin-bottom: 200px;
+	margin-right: 50px;
+	
+}
+.two{
+	width: 590px;
+	margin-bottom: 200px;
+
+}
+.three{
+	width: 500px;
+	margin-right: 50px;
+}
+
+
+.four{
+	width: 590px;
+}
+
+#division {
+	margin-bottom: 150px;
+	
+	
+	
+
+}
